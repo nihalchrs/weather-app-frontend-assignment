@@ -3,7 +3,7 @@ Frontend (React)
 1. Clone the Repository
    Clone the frontend repository to your local machine using the following command:
 
-git clone https://github.com/nihalchrs/weather-app-frontend.git
+git clone https://github.com/nihalchrs/weather-app-frontend-assignment.git
 
 2. Create Environment File
    In the frontend directory, create a .env file based on the provided env_sample file. Update the environment variables as needed.
